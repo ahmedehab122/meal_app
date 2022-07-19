@@ -2,6 +2,9 @@
 
 > Meal App
 
+## Download App
+<a href="https://github.com/ahmedehab122/meal_app/releases/download/v3/Resturant.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+
 ## Screenshots
 <table width="100%">
   <tr>
